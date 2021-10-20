@@ -1,5 +1,5 @@
 {
-  "name": "palindrome-checker",
+  "name": "palindrome-test",
   "version": "1.0.0",
   "description": "simple package for check palindrome word",
   "main": "index.js",
