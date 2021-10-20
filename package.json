@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fiqryq/palindrome-checker.git"
+    "url": "git+https://github.com/fiqryq/palindrome-test.git"
   },
   "keywords": [
     "palindrome"
@@ -16,7 +16,7 @@
   "author": "fiqry choerudin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fiqryq/palindrome-checker/issues"
+    "url": "https://github.com/fiqryq/palindrome-test/issues"
   },
-  "homepage": "https://github.com/fiqryq/palindrome-checker#readme"
+  "homepage": "https://github.com/fiqryq/palindrome-test#readme"
 }
