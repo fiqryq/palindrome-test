@@ -1,0 +1,22 @@
+{
+  "name": "palindrome-checker",
+  "version": "1.0.0",
+  "description": "simple package for check palindrome word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiqryq/palindrome-checker.git"
+  },
+  "keywords": [
+    "palindrome"
+  ],
+  "author": "fiqry choerudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiqryq/palindrome-checker/issues"
+  },
+  "homepage": "https://github.com/fiqryq/palindrome-checker#readme"
+}
